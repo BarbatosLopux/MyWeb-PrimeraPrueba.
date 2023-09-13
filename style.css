@@ -4,18 +4,21 @@
     box-sizing: border-box;
 }
 
-
-p{ 
-    margin: auto;
-    width: 40%;
-    text-align: center;
-    line-height: 1.2;
-}
-
 h1 span{
-    margin-left: 10vh;
     color: brown;
 }
+
+.section {
+    background-color: rgb(97, 88, 88);
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    text-align: center;
+    width: 97%;
+    margin: 5%;
+    border-radius: 20%;
+    box-shadow: 10% 10% 10% rgba(117, 116, 116, 0.5);
+  }
 
 
 body { 

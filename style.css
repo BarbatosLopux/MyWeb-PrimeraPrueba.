@@ -1,0 +1,29 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+p{ 
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    line-height: 1.2;
+}
+
+h1 span{
+    margin-left: 10vh;
+    color: brown;
+}
+
+
+body { 
+    display: flex;
+    align-items: center;
+    background-color: burlywood;
+    color: black;
+    height: 100vh;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
